@@ -1,0 +1,9 @@
+@inproceedings{REPO-163,
+    author = "Bhattacherjee, Souvik and Chavan, Amit and Huang, Silu and Deshpande, Amol and Parameswaran, Aditya",
+    booktitle = "Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases",
+    number = "12",
+    pages = "1346",
+    title = "{Principles of Dataset Versioning: Exploring the Recreation/Storage Tradeoff}",
+    volume = "8",
+    year = "2015"
+}
